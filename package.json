@@ -1,0 +1,12 @@
+{
+  "name": "lsm9ds1-js",
+  "version": "0.0.1",
+  "author": "Karel Braeckman",
+  "main": "lsm9ds1-i2c.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "raspi-i2c": "6.2.1"
+  }
+}
